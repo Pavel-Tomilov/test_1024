@@ -444,6 +444,7 @@ hr {
 }
 
 .maps__btn {
+  color: white;
   margin-left: auto;
   background: rgb(178, 31, 36);
   padding: 16px 40px;
@@ -509,7 +510,7 @@ hr {
 }
 
 .red {
-  background: rgb(178, 31, 36);
+  color: rgb(178, 31, 36);
 }
 
 .footer__item-left {
